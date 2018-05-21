@@ -1,0 +1,20 @@
+Epoch 0... (Train/Test) Loss: 2.556/2.229
+Epoch 1... (Train/Test) Loss: 2.129/2.037
+Epoch 2... (Train/Test) Loss: 1.974/1.916
+Epoch 3... (Train/Test) Loss: 1.859/1.823
+Epoch 4... (Train/Test) Loss: 1.767/1.745
+Epoch 5... (Train/Test) Loss: 1.690/1.684
+Epoch 6... (Train/Test) Loss: 1.626/1.628
+Epoch 7... (Train/Test) Loss: 1.572/1.584
+Epoch 8... (Train/Test) Loss: 1.526/1.547
+Epoch 9... (Train/Test) Loss: 1.487/1.513
+Epoch 10... (Train/Test) Loss: 1.453/1.488
+Epoch 11... (Train/Test) Loss: 1.424/1.460
+Epoch 12... (Train/Test) Loss: 1.399/1.438
+Epoch 13... (Train/Test) Loss: 1.378/1.422
+Epoch 14... (Train/Test) Loss: 1.360/1.404
+Epoch 15... (Train/Test) Loss: 1.344/1.390
+Epoch 16... (Train/Test) Loss: 1.331/1.379
+Epoch 17... (Train/Test) Loss: 1.320/1.370
+Epoch 18... (Train/Test) Loss: 1.312/1.361
+Epoch 19... (Train/Test) Loss: 1.303/1.356
